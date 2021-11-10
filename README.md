@@ -26,6 +26,8 @@ This game was created during the last semester of my bachelor's degree as a bach
     <br />
     >>
     <a href="https://github.com/github_username/repo_name/youtubevideo">View Demo</a>
+    .
+    <a href="https://barrythecoolbee.itch.io/a-lifes-end">itch.io</a>
     <<
   </p>
 </div>
