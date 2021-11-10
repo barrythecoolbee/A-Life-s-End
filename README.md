@@ -61,7 +61,7 @@ From now on the character sets off on a new adventure with the goal of rescuing 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Contact
+## Credits
 
 Programmer / Artist /  Level Designer - Beatriz Sá
 
